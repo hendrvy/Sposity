@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sposity\\Sposity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{947B265B-3190-44E3-B3F2-2B0EB9163A9B}|Sposity\\Sposity.vcxproj|C:\\Sposity\\Sposity\\Sposity\\Sposity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{947B265B-3190-44E3-B3F2-2B0EB9163A9B}|Sposity\\Sposity.vcxproj|solutionrelative:Sposity\\Sposity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sposity.cpp",
+              "DocumentMoniker": "C:\\Sposity\\Sposity\\Sposity\\Sposity.cpp",
+              "RelativeDocumentMoniker": "Sposity\\Sposity.cpp",
+              "ToolTip": "C:\\Sposity\\Sposity\\Sposity\\Sposity.cpp",
+              "RelativeToolTip": "Sposity\\Sposity.cpp",
+              "ViewState": "AgIAAAkJAAAAAAAAAAAQwCoJAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-08T12:16:58.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

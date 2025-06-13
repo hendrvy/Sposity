@@ -1,0 +1,123 @@
+﻿  Sposity.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Sposity\Sposity\Sposity\Sposity.cpp(935,21): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1349,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1349,68): warning C4244:         with
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1349,68): warning C4244:         [
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1349,68): warning C4244:             T=float
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1349,68): warning C4244:         ]
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1411,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1411,64): warning C4244:         with
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1411,64): warning C4244:         [
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1411,64): warning C4244:             T=float
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1411,64): warning C4244:         ]
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1414,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1418,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1455,82): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1455,82): warning C4244:         with
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1455,82): warning C4244:         [
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1455,82): warning C4244:             T=float
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1455,82): warning C4244:         ]
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1473,80): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1473,80): warning C4244:         with
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1473,80): warning C4244:         [
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1473,80): warning C4244:             T=float
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1473,80): warning C4244:         ]
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1492,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1492,75): warning C4244:         with
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1492,75): warning C4244:         [
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1492,75): warning C4244:             T=float
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1492,75): warning C4244:         ]
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1493,106): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1493,106): warning C4244:         with
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1493,106): warning C4244:         [
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1493,106): warning C4244:             T=float
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1493,106): warning C4244:         ]
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1519,79): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1519,79): warning C4244:         with
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1519,79): warning C4244:         [
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1519,79): warning C4244:             T=float
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1519,79): warning C4244:         ]
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1520,106): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1520,106): warning C4244:         with
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1520,106): warning C4244:         [
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1520,106): warning C4244:             T=float
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1520,106): warning C4244:         ]
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1558,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1582,132): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1625,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1735,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1746,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1750,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1755,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1761,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1769,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1775,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1783,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1829,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1839,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1844,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1896,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1901,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1906,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1958,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1960,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1960,76): warning C4244:         with
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1960,76): warning C4244:         [
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1960,76): warning C4244:             T=float
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1960,76): warning C4244:         ]
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1967,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1972,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1978,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1980,100): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1980,100): warning C4244:         with
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1980,100): warning C4244:         [
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1980,100): warning C4244:             T=float
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1980,100): warning C4244:         ]
+C:\Sposity\Sposity\Sposity\Sposity.cpp(1987,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2066,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2068,80): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2068,80): warning C4244:         with
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2068,80): warning C4244:         [
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2068,80): warning C4244:             T=float
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2068,80): warning C4244:         ]
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2075,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2080,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2085,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2087,100): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2087,100): warning C4244:         with
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2087,100): warning C4244:         [
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2087,100): warning C4244:             T=float
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2087,100): warning C4244:         ]
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2094,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2246,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2293,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2293,81): warning C4244:         with
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2293,81): warning C4244:         [
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2293,81): warning C4244:             T=unsigned int
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2293,81): warning C4244:         ]
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2293,81): warning C4244:         and
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2293,81): warning C4244:         [
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2293,81): warning C4244:             T=float
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2293,81): warning C4244:         ]
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2293,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2293,61): warning C4244:         with
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2293,61): warning C4244:         [
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2293,61): warning C4244:             T=unsigned int
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2293,61): warning C4244:         ]
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2293,61): warning C4244:         and
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2293,61): warning C4244:         [
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2293,61): warning C4244:             T=float
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2293,61): warning C4244:         ]
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2321,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2325,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2325,54): warning C4244:         with
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2325,54): warning C4244:         [
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2325,54): warning C4244:             T=float
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2325,54): warning C4244:         ]
+C:\Sposity\Sposity\Sposity\Sposity.cpp(2333,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 866 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Sposity.vcxproj -> C:\Sposity\Sposity\x64\Release\Sposity.exe
