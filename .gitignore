@@ -1,0 +1,27 @@
+# Visual Studio dan IDE temporary/generated files
+.vs/
+*.ipch
+*.obj
+*.pdb
+*.suo
+*.user
+*.VC.db
+*.tlog
+*.lastbuildstate
+
+# Executables and Libraries (output dari build)
+/bin/
+/x64/
+/debug/
+/release/
+*.exe
+*.dll
+*.lib
+
+# macOS/Linux temporary files
+.DS_Store
+
+# Jika kamu punya file lain yang TIDAK perlu diunggah (misal file log, konfigurasi sensitif)
+# tambahkan barisnya di sini, contoh:
+# my_secret_config.json
+# *.log
